@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@danielemeryau/logger": "^0.1.1",
-    "@danielemeryau/simple-rabbitmq": "^0.3.0",
+    "@danielemeryau/simple-rabbitmq": "^0.4.0",
     "@teamest/calendar-generator": "^0.2.0",
     "@teamest/internal-season-client": "^0.4.0",
     "aws-sdk": "^2.814.0",
